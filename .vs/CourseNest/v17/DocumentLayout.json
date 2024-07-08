@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\courses\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\courses\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\courses\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\courses\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\teachers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\teachers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\teachers\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\teachers\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\addcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\addcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\addteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\addteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\migrations\\20240708100733_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:migrations\\20240708100733_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|d:\\cdac\\dotnet\\coursenest\\coursenest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB97F00B-9B6D-4774-B064-6DCF7614B2ED}|CourseNest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:51:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\List.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\List.cshtml",
+              "RelativeToolTip": "Views\\Courses\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:47:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:33:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:25:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCourseViewModel.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddCourseViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddCourseViewModel.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddCourseViewModel.cs",
+              "RelativeToolTip": "Models\\AddCourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:24:56.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Add.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Courses\\Add.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:19:33.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T13:05:14.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T13:05:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:18:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\List.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:28:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:37:48.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\List.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\List.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:36:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Add.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Teachers\\Add.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Add.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:41:53.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Teacher.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Models\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:59:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:12:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Course.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Models\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:59:56.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Add.cshtml",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:37:03.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:58:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddTeacherViewModel.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddTeacherViewModel.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddTeacherViewModel.cs",
+              "RelativeToolTip": "Models\\AddTeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:19:53.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddStudentViewModel.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:16:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240708100733_Intial Migration.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Migrations\\20240708100733_Intial Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240708100733_Intial Migration.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Migrations\\20240708100733_Intial Migration.cs",
+              "RelativeToolTip": "Migrations\\20240708100733_Intial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:07:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:02:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:00:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\cdac\\dotnet\\CourseNest\\CourseNest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T10:02:30.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

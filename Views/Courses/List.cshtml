@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<CourseNest.Models.Entities.Course>
+
+<h1>Course</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Gui Id</th>
+            <th>Name</th>
+            <th>DurationMonths</th>
+            <th>Fee</th>
+            <th>Description</th>
+
+
+            <th> </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Name</td>
+                <td>@course.DurationMonths</td>
+                <td>@course.Fees</td>
+                <td>@course.Description</td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Courses" asp-action="Edit" asp-route-id="@course.Id">
+                        Edit
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
